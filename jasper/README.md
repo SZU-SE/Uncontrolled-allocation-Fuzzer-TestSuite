@@ -7,7 +7,7 @@
 - Download:
   ```
   git clone https://github.com/mdadams/jasper
-  git checkout commit 1a36ca39da535af2e67848f5f43ffd657746e632
+  git checkout 1a36ca39da535af2e67848f5f43ffd657746e632
   ```
 - Reproduce: `jasper --input @@ --output test.bmp --output-format bmp`
 - ASAN dumps the backtrace:
